@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AgendaContato</string>
+    <string name="botao_salvar">Salvar</string>
+    <string name="botao_alterar">Alterar</string>
+    <string name="botao_excluir">Excluir</string>
+
+</resources>
